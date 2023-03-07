@@ -8,7 +8,7 @@
 body{
     margin: 0;
     background-image: linear-gradient(to top, #9e9fa3 , #8fb65b);
-    height: 100%;
+    height: 100vh;
 }
 
 a{
